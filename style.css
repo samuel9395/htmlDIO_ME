@@ -1,0 +1,46 @@
+/* Aqui coloquei o background-color nessa cor para relebrar aqueles blogs dos anos 2000 rsrsrs */
+body {
+    background-color: rgb(169, 228, 228);
+    color: black;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    padding: 10;
+    margin: 20px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+::-webkit-scrollbar {
+    color: transparent;
+}
+
+footer {
+    margin-top: 100px;
+    text-align: center;
+}
+
+p {
+    font-size: 15px;
+}
+
+button {
+    border-radius: 5px;
+    border-width: 3px;
+    border-color: rgb(95, 95, 202);
+}
+
+button a{
+    width: 100px;
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    font-weight: 600;
+}
+
+button:hover {
+background-color: rgb(95, 95, 202);
+}
